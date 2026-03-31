@@ -1,8 +1,4 @@
-
-***
-
-```markdown
-# ⌨️ Typing Speed Tester  
+# ⌨️ Typing Speed Tester
 ### Mini Project 3 (Python)
 
 ---
@@ -53,7 +49,6 @@ No external libraries are required.
 ## 📊 Calculation Logic
 
 ### Words Per Minute (WPM)
-```
 
 WPM = Number of words / (Time taken in minutes)
 
