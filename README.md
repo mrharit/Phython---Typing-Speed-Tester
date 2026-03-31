@@ -1,4 +1,3 @@
-Here is a **clean, professional, copy‑paste ready `README.md` code** for **Mini Project 3: Typing Speed Tester**, written to look great on GitHub and suitable for beginner/portfolio projects.
 
 ***
 
