@@ -119,8 +119,4 @@ Python Mini Projects | Beginner-Friendly Automation
 
 This project is created strictly for **educational and practice purposes**.
 
-```
 
-
-
-```
